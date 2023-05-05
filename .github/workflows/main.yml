@@ -1,6 +1,7 @@
 name: Create Release and Push Docker Image
 
 on:
+
   push:
     branches:
       - "main"
